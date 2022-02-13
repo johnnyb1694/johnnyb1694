@@ -10,7 +10,7 @@ My goal in life is to educate others in the art of programming - especially with
 
 ## About me
 
-- 🔭 I’m currently working on an R package `nyt` which will allow users to access the New York Times API from their personal R environment
+- 🔭 I’m currently learning more about the internals of the programming language R
 - 🌱 I’m currently learning web development, specifically: `HTML`, `CSS`, `JavaScript` and `Shiny`
 - 👯 I’m looking to collaborate on any open source issues which may involve the use of the language R
 - 💬 Ask me about questions relating to R!
