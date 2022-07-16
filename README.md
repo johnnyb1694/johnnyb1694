@@ -4,9 +4,9 @@ My name is Johnny Breen.
 
 I am a [Portfolio Optimisation Lead at Tokio Marine Kiln](https://www.linkedin.com/in/johnnybreen/), London.
 
-My day-to-day work involves extensive use of the statistical language R but I also have a working knowledge of SQL and Python.
+My day-to-day work involves extensive use of the programming language R but I also have a working knowledge of SQL and Python.
 
-My goal in life is to educate others in the art of programming - especially with respect to the statistical language R - and general software development principles 🔭 📈
+My goal in life is to educate others in the art of programming and general software development principles 🔭 📈
 
 ## About me
 
