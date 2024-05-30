@@ -10,6 +10,6 @@ My goal in life is to educate others in the art of programming and general softw
 
 ## About me
 
-- 🔭 I'm very interested in the programming languages R and Python
+- 🔭 I'm very interested in the programming languages Python & R
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can speak Mandarin Chinese (to a reasonable level)! 🇹🇼 🇭🇰 🇨🇳
