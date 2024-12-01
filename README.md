@@ -2,7 +2,7 @@
 
 My name is Johnny Breen. 
 
-I am a [developer at Canopius Group](https://www.linkedin.com/in/johnnybreen/), London.
+I currently work as a Python [developer at Canopius Group](https://www.linkedin.com/in/johnnybreen/), based in London.
 
 My day-to-day work involves building documented and tested software packages with the programming language Python. I also have a decent knowledge of SQL.
 
