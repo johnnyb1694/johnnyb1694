@@ -2,9 +2,7 @@
 
 My name is Johnny Breen. 
 
-I currently work as a Python [developer at Canopius Group](https://www.linkedin.com/in/johnnybreen/), based in London.
-
-My day-to-day work involves building documented and tested software packages with the programming language Python. I also have a decent knowledge of SQL.
+Whilst I identify as a data scientist, my day-to-day work involves building documented and tested software packages with the programming languages Python & R. I also have a proficient knowledge of SQL.
 
 My goal in life is to educate others in the art of programming and general software development principles 🔭 📈
 
