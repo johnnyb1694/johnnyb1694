@@ -2,7 +2,7 @@
 
 My name is Johnny Breen. 
 
-Whilst I identify as a data scientist, my day-to-day work involves building documented and tested software packages with the programming languages Python & R. I also have a proficient knowledge of SQL.
+My day-to-day work involves building documented and tested software packages with the programming languages Python & R. I also have a proficient knowledge of SQL.
 
 My goal in life is to educate others in the art of programming and general software development principles 🔭 📈
 
